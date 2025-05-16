@@ -47,17 +47,17 @@ const services = [
   },
   {
     
-    title: "Outros Serviços",
-    description: "Consultoria em TI, suporte técnico, manutenção de computadores e notebooks.",
-    imgSrc: "/imagens/manuteção.jpg",
-    features: ["Consultoria e Suporte", "Suporte Técnico", "Manutenção de Computadores", "Manutenção de Notebook"],
+    title: "Impressão Digital",
+    description: "Impressão de alta qualidade em diversos formatos e materiais.",
+    imgSrc: "/imagens/impressao.png",
+    features: ["Impressão Digital", "Impressão em Grande Formato", "Impressão de Materiais Promocionais", "Impressão de Rótulos"],
     whatsappUrl:
       "https://wa.me/5518996791377?text=Olá,%20gostaria%20de%20saber%20mais%20sobre%20seus%20serviços%20de%20Consultoria%20e%20Suporte",
   },
   {
     title: "Outros Serviços",
     description: "Consultoria em TI, suporte técnico, manutenção de computadores e notebooks.",
-    imgSrc: "/imagens/manutenção.jpg",
+    imgSrc: "/imagens/manuteção.jpg",
     features: ["Consultoria e Suporte", "Suporte Técnico", "Manutenção de Computadores", "Manutenção de Notebook"],
     whatsappUrl:
       "https://wa.me/5518996791377?text=Olá,%20gostaria%20de%20saber%20mais%20sobre%20seus%20serviços%20de%20Consultoria%20e%20Suporte",
